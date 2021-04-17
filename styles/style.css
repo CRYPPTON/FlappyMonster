@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    height: 100vh;
+    overflow: hidden;
+    background: black;
+}
+
+img{
+    display: none;
+}
+
+canvas{
+     background-image: url('../photo/city.png');
+    background-repeat: repeat-y;
+    opacity: 0.8;
+    margin: 50px 0 0 50px;
+    outline : solid black 2px;
+ 
+}
